@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\CodilityTest\CodilityTest\bin\Debug\netcoreapp3.1\CodilityTest.exe
+C:\Users\user\source\repos\CodilityTest\CodilityTest\bin\Debug\netcoreapp3.1\CodilityTest.deps.json
+C:\Users\user\source\repos\CodilityTest\CodilityTest\bin\Debug\netcoreapp3.1\CodilityTest.runtimeconfig.json
+C:\Users\user\source\repos\CodilityTest\CodilityTest\bin\Debug\netcoreapp3.1\CodilityTest.runtimeconfig.dev.json
+C:\Users\user\source\repos\CodilityTest\CodilityTest\bin\Debug\netcoreapp3.1\CodilityTest.dll
+C:\Users\user\source\repos\CodilityTest\CodilityTest\bin\Debug\netcoreapp3.1\CodilityTest.pdb
+C:\Users\user\source\repos\CodilityTest\CodilityTest\obj\Debug\netcoreapp3.1\CodilityTest.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CodilityTest\CodilityTest\obj\Debug\netcoreapp3.1\CodilityTest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CodilityTest\CodilityTest\obj\Debug\netcoreapp3.1\CodilityTest.AssemblyInfo.cs
+C:\Users\user\source\repos\CodilityTest\CodilityTest\obj\Debug\netcoreapp3.1\CodilityTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CodilityTest\CodilityTest\obj\Debug\netcoreapp3.1\CodilityTest.dll
+C:\Users\user\source\repos\CodilityTest\CodilityTest\obj\Debug\netcoreapp3.1\CodilityTest.pdb
+C:\Users\user\source\repos\CodilityTest\CodilityTest\obj\Debug\netcoreapp3.1\CodilityTest.genruntimeconfig.cache
